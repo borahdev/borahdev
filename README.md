@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Borahdev
 
-<!--
-**borahdev/borahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building things that matter, one line of code at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a developer passionate about creating elegant solutions to complex problems. 
+I focus on writing clean, maintainable code and building products that people actually want to use. 
+Always learning, always experimenting.
+
+- 🔨 Currently working on projects that push my technical boundaries
+- 📚 Constantly learning new technologies and best practices
+- 💡 Love solving real-world problems with code
+- 🎯 Committed to quality and attention to detail
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Borahdev**
+
+</div>
