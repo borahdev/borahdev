@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Borahdev
+# Hey, I'm Borahdev
 
 > Building things that matter, one line of code at a time.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer passionate about creating elegant solutions to complex problems. 
 I focus on writing clean, maintainable code and building products that people actually want to use. 
